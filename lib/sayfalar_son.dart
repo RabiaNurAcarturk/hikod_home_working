@@ -1,4 +1,4 @@
-/*
+/* 
 main.dart
 import 'package:atolye_1/sayfa2.dart';
 import 'package:atolye_1/sayfa3.dart';
@@ -122,7 +122,8 @@ class Sayfa3 extends StatelessWidget {
       )),
     );
 
-    /*/sayfa3.dart
+    --------------------
+    sayfa3.dart
 
 
 import 'package:flutter/cupertino.dart';
@@ -946,5 +947,4 @@ class HomePage extends StatelessWidget {
       ],
     ));
   }
-}
-    */
+}  */
